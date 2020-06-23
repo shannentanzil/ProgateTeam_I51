@@ -1,0 +1,64 @@
+@media (max-width: 980px) {
+	/*Bagian @saktya*/
+	.members {
+		max-width: 45%;
+	}
+	/*Bagian @shannen*/
+	.work {
+		width: 50%;
+	}
+	p {
+		margin-bottom:30px;
+		padding-left:30px;
+		padding-right:30px;
+	}
+}
+
+@media (max-width: 600px) {
+	/*Bagian @saktya*/
+	.members {
+		max-width: 100%;
+	}
+	/*Bagian @shannen*/
+	.work {
+		width:100% ;
+	}
+
+	.illust1, .illust2 {
+		padding-left:10px;
+		padding-right:10px;
+	}
+
+	h2 {
+		padding-left:25px;
+		padding-right:25px;
+	}
+
+	/*Bagian @novrians*/
+	header {
+		height: 40px;
+
+	}
+
+	.header-wrapper {
+		line-height: 40px;
+	}
+
+	.header-kiri a {
+		display: none;
+	}
+
+	.header-kanan a {
+		display: none;
+	}
+
+	header span {
+		display: block;
+	}
+
+	.landing-text h1 {
+		font-size : 300%;
+		letter-spacing: 10px;
+	}
+
+}
