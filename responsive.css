@@ -25,6 +25,7 @@
 	}
 
 	.illust1, .illust2 {
+		max-width:80%;
 		padding-left:10px;
 		padding-right:10px;
 	}
